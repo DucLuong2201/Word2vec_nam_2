@@ -39,4 +39,4 @@ jupyter notebook notebooks/demo.ipynb
 ## 🛠 Yêu cầu hệ thống
 - Python 3.8+
 - Các thư viện: numpy, matplotlib, scikit-learn, tqdm, gensim, pytest, jupyter, ipykernel
-- Tải data để có thể chạy code tại link: http://mattmahoney.net/dc/text8.zip
+- Tải data để có thể chạy code tại link: http://mattmahoney.net/dc/text8.zip (copy link và paste vào trang mới của ứng dụng tìm kiếm, nhóm cam kết link hoàn toàn an toàn)
