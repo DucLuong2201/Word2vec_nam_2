@@ -16,9 +16,11 @@ Chạy tuần tự 5 lệnh sau trên Terminal để tái tạo toàn bộ kết
 pip install -r requirements.txt  
 
 
+
 **2. Kiểm tra đạo hàm & Unit test:**
 
 pytest tests/ -v  
+
 
 
 **3. Tiền xử lý & Huấn luyện (Train):**
@@ -26,9 +28,11 @@ pytest tests/ -v
 python src/train.py  
 
 
+
 **4. Đánh giá mô hình (Evaluate):**
 
 python src/evaluate.py  
+
 
 
 **5. Mở Notebook xem trực tiếp báo cáo & biểu đồ:**
