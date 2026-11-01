@@ -13,7 +13,7 @@ Chạy tuần tự 5 lệnh sau trên Terminal để tái tạo toàn bộ kết
 
 **1. Cài đặt thư viện:**
 
-pip install -r requirements.txt  
+pip install -r requirements.txt\
 
 
 
@@ -25,8 +25,7 @@ pytest tests/ -v
 
 **3. Tiền xử lý & Huấn luyện (Train):**
 
-python src/train.py  
-
+python src/train.py\
 
 
 **4. Đánh giá mô hình (Evaluate):**
