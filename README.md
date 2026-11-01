@@ -16,6 +16,7 @@ Chạy tuần tự 5 lệnh sau trên Terminal để tái tạo toàn bộ kết
 pip install -r requirements.txt
 <br>
 
+
 **2. Kiểm tra đạo hàm & Unit test:**
 
 pytest tests/ -v  
@@ -35,7 +36,7 @@ python src/evaluate.py
 **5. Mở Notebook xem trực tiếp báo cáo & biểu đồ:**
 
 jupyter notebook notebooks/demo.ipynb  
-<br>
+
 
 ## 🛠 Yêu cầu hệ thống
 - Python 3.8+
