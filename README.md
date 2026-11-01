@@ -12,29 +12,24 @@
 Chạy tuần tự 5 lệnh sau trên Terminal để tái tạo toàn bộ kết quả:
 
 **1. Cài đặt thư viện:**
-```bash
 pip install -r requirements.txt
-```
+
 
 **2. Kiểm tra đạo hàm & Unit test:**
-```bash
 pytest tests/ -v
-```
+
 
 **3. Tiền xử lý & Huấn luyện (Train):**
-```bash
 python src/train.py
-```
+
 
 **4. Đánh giá mô hình (Evaluate):**
-```bash
 python src/evaluate.py
-```
+
 
 **5. Mở Notebook xem trực tiếp báo cáo & biểu đồ:**
-```bash
 jupyter notebook notebooks/demo.ipynb
-```
+
 
 ## 🛠 Yêu cầu hệ thống
 - Python 3.8+
